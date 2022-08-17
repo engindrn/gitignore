@@ -3,5 +3,7 @@ public class GitIgnore {
         System.out.println("gitignore deneme 1");
         System.out.println("gitignore deneme 2");
         System.out.println("gitignore deneme 3");
+        System.out.println("gitignore deneme 4");
+
     }
 }
